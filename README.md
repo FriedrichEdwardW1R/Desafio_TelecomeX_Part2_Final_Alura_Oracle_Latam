@@ -7,7 +7,7 @@ Aquí finaliza la travesía por ahora de la capacitación de Alura Latam con est
 Este proyecto forma parte del desafío TelecomX (Parte 2) y tiene como objetivo predecir la cancelación de clientes (Churn) en una empresa de telecomunicaciones.
 
 A partir de un dataset con información demográfica, de contratación y de facturación de clientes, se realizaron procesos de exploración, limpieza, balanceo, modelado y evaluación, para finalmente identificar los principales factores que influyen en la pérdida de clientes y proponer estrategias de retención.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 Estructura del proyecto
 
 Dataset telecomx_codificado.csv: información de clientes, incluyendo datos demográficos, servicios contratados y gastos.
@@ -15,7 +15,7 @@ Dataset telecomx_codificado.csv: información de clientes, incluyendo datos demo
 Desafio_TelecomX_Parte2_Final.ipynb: notebook principal con todo el flujo de trabajo.
 
 README.md: descripción general del proyecto.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔍 Metodología
 
 Análisis exploratorio de datos (EDA)
@@ -61,7 +61,7 @@ Análisis de la importancia de las variables.
 Identificación de factores clave que influyen en la cancelación.
 
 Propuesta de estrategias de retención.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Resultados principales
 
 Factores más relevantes para el Churn:
@@ -81,7 +81,7 @@ Rendimiento de modelos:
 Árbol de Decisión → Accuracy: 79.3%, F1-score: 79.5%.
 
 Regresión Logística → Accuracy: 76.6%, Recall: 81.0%.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💡 Estrategias de retención propuestas
 
 Incentivos para clientes con contratos mensuales.
@@ -95,13 +95,13 @@ Campañas de mejora del soporte técnico.
 Ofertas y bundles para usuarios de fibra óptica.
 
 Programas de fidelización basados en tiempo de contrato.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠 Tecnologías utilizadas
 
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn)
 
 Jupyter Notebook
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Autor: Martínez García Diego Eduardo
 
 Proyecto desarrollado como parte del desafío de Data Science para TelecomX — Parte 2.
